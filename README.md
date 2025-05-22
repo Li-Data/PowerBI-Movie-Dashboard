@@ -73,7 +73,7 @@ The main objective of this dashboard is to:
 
 ## Dashboard
 
-![dashboard](assets/movie-dashboard.png)
+![dashboard](Assets/movie-dashboard.png)
 
 
 
